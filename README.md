@@ -31,4 +31,4 @@
 - [Критерии диплома веб-разработчика](https://code.s3.yandex.net/web-developer/static/new-program/web-diploma-criteria-2.0/index.html)
 
 ## Ссылки:
-Домен сервера - https://api.mikhail.yandex.nomoredomains.rocks
+Домен сервера: https://api.mikhail.yandex.nomoredomains.rocks
